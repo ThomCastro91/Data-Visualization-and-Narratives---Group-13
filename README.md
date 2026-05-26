@@ -10,15 +10,15 @@ Drive Link with all the Datasets and Dashboards:
 https://drive.google.com/drive/folders/1ObNetMM9CStFGGRXRj31n_IkPoVlpNjP
 
 
-Credits: \n
-**Dataset Selection and Miro:** Shivom, Thom, Jyoti, Pujan, Matthew, Disha, Vatsal \n
-**Dataset Combining:** Jyoti, Pujan \n
-**Exploratory Data Analysis:** Jyoti
-**Data Preparation and Cleaning:** Thom, Shivom
-**Tableau Visuals:** Shivom, Jyoti, Pujan
-**Dashboard Layout:** Shivom, Jyoti
-**Dashboard Interactivity:** Shivom
-**Presentation:** Matthew, Vatsal, Disha
-**Video Demonstration:** Shivom
-**Report:** Pujan, Disha
-**Github and Drive Management:** Thom
+Credits: <br>
+**Dataset Selection and Miro:** Shivom, Thom, Jyoti, Pujan, Matthew, Disha, Vatsal <br>
+**Dataset Combining:** Jyoti, Pujan <br>
+**Exploratory Data Analysis:** Jyoti <br>
+**Data Preparation and Cleaning:** Thom, Shivom <br>
+**Tableau Visuals:** Shivom, Jyoti, Pujan <br>
+**Dashboard Layout:** Shivom, Jyoti <br>
+**Dashboard Interactivity:** Shivom <br>
+**Presentation:** Matthew, Vatsal, Disha <br>
+**Video Demonstration:** Shivom <br>
+**Report:** Pujan, Disha <br>
+**Github and Drive Management:** Thom <br>
