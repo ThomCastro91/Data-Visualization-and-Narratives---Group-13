@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1ObNetMM9CStFGGRXRj31n_IkPoVlpNjP
 ## Credits: <br>
 **Dataset Selection and Miro:** Shivom, Thom, Jyoti, Pujan, Matthew, Disha, Vatsal <br>
 **Dataset Combining:** Jyoti, Pujan <br>
-**Exploratory Data Analysis:** Jyoti <br>
+**Exploratory Data Analysis:** Jyoti, Thom <br>
 **Data Preparation and Cleaning:** Thom, Shivom <br>
 **Tableau Visuals:** Shivom, Jyoti, Pujan <br>
 **Dashboard Layout:** Shivom, Jyoti <br>
