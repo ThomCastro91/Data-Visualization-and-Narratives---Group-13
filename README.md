@@ -10,9 +10,9 @@ Drive Link with all the Datasets and Dashboards:
 https://drive.google.com/drive/folders/1ObNetMM9CStFGGRXRj31n_IkPoVlpNjP
 
 
-Credits:
-**Dataset Selection and Miro:** Shivom, Thom, Jyoti, Pujan, Matthew, Disha, Vatsal
-**Dataset Combining:** Jyoti, Pujan
+Credits: \n
+**Dataset Selection and Miro:** Shivom, Thom, Jyoti, Pujan, Matthew, Disha, Vatsal \n
+**Dataset Combining:** Jyoti, Pujan \n
 **Exploratory Data Analysis:** Jyoti
 **Data Preparation and Cleaning:** Thom, Shivom
 **Tableau Visuals:** Shivom, Jyoti, Pujan
