@@ -10,8 +10,8 @@ Live Dashboard Link: https://public.tableau.com/app/profile/shivom.karnad/viz/DV
 ## Drive Link with all the Datasets and Dashboards: 
 https://drive.google.com/drive/folders/1ObNetMM9CStFGGRXRj31n_IkPoVlpNjP
 
-
-Credits: <br>
+<br><br>
+## Credits: <br>
 **Dataset Selection and Miro:** Shivom, Thom, Jyoti, Pujan, Matthew, Disha, Vatsal <br>
 **Dataset Combining:** Jyoti, Pujan <br>
 **Exploratory Data Analysis:** Jyoti <br>
